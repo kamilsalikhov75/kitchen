@@ -1,0 +1,11 @@
+.register-loading__block {
+  width: 370px;
+  height: 357px;
+  padding: 20px 10px;
+  background: #e7e7e7;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}

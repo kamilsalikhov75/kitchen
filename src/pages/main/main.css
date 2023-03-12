@@ -1,0 +1,27 @@
+.main__block {
+  background: #ebebeb;
+  padding: 10px 0;
+}
+
+.main__block + .main__block {
+  margin-top: 20px;
+}
+
+.main__title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 15px;
+}
+
+.main__text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+}

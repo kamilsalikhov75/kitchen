@@ -1,0 +1,22 @@
+.user__navigation{
+  margin-bottom: 20px;
+}
+
+.user__button {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+  background: linear-gradient(180deg, #46914e 25%, #8e8e8e 100%);
+  padding: 10px;
+  border: none;
+  border-left: 1px solid #000;
+  cursor: pointer;
+}
+
+.user__button--red{
+  background: linear-gradient(180deg, #E75D5D 25%, #A23D3D 100%);
+  border-right: 1px solid #000;
+}

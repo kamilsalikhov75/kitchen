@@ -1,0 +1,46 @@
+.user__orders {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.user__order {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border: 1px solid #46914e;
+  border-radius: 10px;
+  width: 100%;
+  padding: 10px;
+}
+
+.user__order-top {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+}
+
+.user__order-text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+}
+
+.user__order-products {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.user__order-product {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #46914e;
+  border-radius: 10px;
+}
